@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <script data-ad-client="ca-pub-2616058585485565" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
